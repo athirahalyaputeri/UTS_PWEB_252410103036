@@ -67,16 +67,16 @@ BookSpace merupakan aplikasi web berbasis Laravel. Aplikasi ini dikembangkan seb
 ## Screenshot Aplikasi
 
 ### Halaman Login
-![Halaman Login](Login.png)
+![Halaman Login](Screnshoot/Login.png)
 
 ### Halaman Profile
-![Halaman Profile](Profile.png)
+![Halaman Profile](Screnshoot/Profile.png)
 
 ### Halaman Dashboard
-![Halaman Dashboard](Dashboard.png)
+![Halaman Dashboard](Screnshoot/Dashboard.png)
 
 ### Halaman Pengelolaan
-![Halaman Pengelolaan](Pengelolaan.png)
+![Halaman Pengelolaan](Screnshoot/Pengelolaan.png)
 
 ## Identitas Pengembang
 
